@@ -30,3 +30,6 @@ chess.com Neo Wood chess pieces set
 ### Cardinal
 lichess Cardinal chess pieces set
 
+### CBurnett V2
+CBurnett V2 pieces with/without shadow
+
